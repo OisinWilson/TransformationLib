@@ -1,7 +1,0 @@
-﻿  Game.cpp
-c:\users\recycled sloth\desktop\3dlibrary\3dlibrary\game.cpp(78): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
-c:\users\recycled sloth\desktop\3dlibrary\3dlibrary\game.cpp(89): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
-c:\users\recycled sloth\desktop\3dlibrary\3dlibrary\game.cpp(99): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
-c:\users\recycled sloth\desktop\3dlibrary\3dlibrary\game.cpp(109): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
-  3dLibrary.vcxproj -> C:\Users\Recycled Sloth\Desktop\3dLibrary\3dLibrary\Debug\3dLibrary.exe
-  3dLibrary.vcxproj -> C:\Users\Recycled Sloth\Desktop\3dLibrary\3dLibrary\Debug\3dLibrary.pdb (Partial PDB)
